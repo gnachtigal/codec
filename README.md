@@ -36,7 +36,7 @@ Ao todo, o programa é composto por 5 arquivos:
 - [ClasseCifraCesar.php](ClasseCifraCesar.php) | *Classe **PHP** composta por todos os métodos necessários para execução do programa*
 - [cesar.js](cesar.js) | *Arquivo **javascript** onde é executado o **AJAX** para atualização dos resultados obtidos pela execução do programa*
 
-#### Classe [CifraCesar](../gnachtigal/codec/ClasseCifraCesar.php)
+#### Classe [CifraCesar](ClasseCifraCesar.php)
 
 A classe é composta por 4 métodos principais:
 - criptografa() | *Utilizada para chamar o método **executar()** de modo que criptografe uma mensagem*
