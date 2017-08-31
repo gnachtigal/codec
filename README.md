@@ -30,11 +30,11 @@ O programa funciona de modo simples e direto, onde a string inserida pelo usuár
 
 Ao todo, o programa é composto por 5 arquivos:
 
-- [index.php](../gnachtigal/codec/index.php) | *Página principal onde está presente o html no qual o programa funciona*
-- [cifrar.php](../gnachtigal/codec/cifrar.php) | *Página **PHP** onde é executado o método **cifrar** da classe*
-- [decifrar.php](../gnachtigal/codec/cifrar.php) | *Página **PHP** onde é executado o método **decifrar** da classe*
-- [ClasseCifraCesar.php](../gnachtigal/codec/ClasseCifraCesar.php) | *Classe **PHP** composta por todos os métodos necessários para execução do programa*
-- [cesar.js](../gnachtigal/codec/cesar.js) | *Arquivo **javascript** onde é executado o **AJAX** para atualização dos resultados obtidos pela execução do programa*
+- [index.php](index.php) | *Página principal onde está presente o html no qual o programa funciona*
+- [cifrar.php](cifrar.php) | *Página **PHP** onde é executado o método **cifrar** da classe*
+- [decifrar.php](decifrar.php) | *Página **PHP** onde é executado o método **decifrar** da classe*
+- [ClasseCifraCesar.php](ClasseCifraCesar.php) | *Classe **PHP** composta por todos os métodos necessários para execução do programa*
+- [cesar.js](cesar.js) | *Arquivo **javascript** onde é executado o **AJAX** para atualização dos resultados obtidos pela execução do programa*
 
 #### Classe [CifraCesar](../gnachtigal/codec/ClasseCifraCesar.php)
 
@@ -50,5 +50,5 @@ E dois métodos auxiliares:
 
 ---
 
-> Desenvolvido no ano de 2017 por [Gabriel Nachtigal](https://github.com/gnachtigal) e [Tales Igor Vieira](https://github.com/Talesigor).
+> Desenvolvido no ano de 2017 por [Gabriel Nachtigal](https://github.com/gnachtigal) e [Tales Igor Vieira](https://github.com/Talesigor).                                                                               
 > Trabalho ministrado pelo professor [Raffael Bottoli Schemmer](https://github.com/RaffaelSchemmer), do Institudo Federal do Rio Grande do Sul - Campus Restinga.
